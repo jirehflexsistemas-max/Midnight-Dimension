@@ -1,0 +1,8 @@
+{
+  "name": "Remix Midnight Dimensions",
+  "description": "Juego de acción por niveles en el que enfrentas a Zeynthar, el Arquitecto Multiversal, y restauras el Pandorum a través de grietas en Nueva York, Wakanda, Latveria y K\u0027un-Lun.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
